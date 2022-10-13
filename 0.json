@@ -84,6 +84,15 @@
             "searchable":1
         },
         {
+            "key": "在线之家",
+            "name": "在线之家(爬虫)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "LiteApple",
             "name": "小苹果(爬虫)",
             "type": 3,
@@ -666,5 +675,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;396c49bfcb3ec4ca5020f9c4a004118d"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948"
 }
