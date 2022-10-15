@@ -306,6 +306,16 @@
             "ext": "https://dxawi.github.io/1/json/kdyy.json"
         },
         {
+            "key": "XB Cokemv",
+            "name": "Cokemv(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/1/json/coke.json"
+        },
+        {
             "key":"csp_xpath_libv",
             "name": "Libvio(XP)",
             "type":3,
