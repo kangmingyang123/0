@@ -307,14 +307,14 @@
             "ext": "https://dxawi.github.io/1/json/coke.json"
         },
         {
-            "key":"csp_xpath_348",
-            "name": "348(XP)",
+            "key":"csp_xpath_厂长资源",
+            "name": "厂长资源(XP)",
             "type":3,
-            "api":"csp_XPathFilter",
+            "api":"csp_XPathMacFilter",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/348p.json"
+            "ext":"https://dxawi.github.io/1/json/czzyp.json"
         },
         {
             "key":"csp_xpath_工人",
