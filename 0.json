@@ -93,15 +93,6 @@
             "filterable": 1
         },
         {
-            "key": "Kuaikan",
-            "name": "快看(爬虫)",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "厂长",
             "name": "厂长(爬虫)",
             "type":3,
@@ -314,6 +305,26 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/coke.json"
+        },
+        {
+            "key":"csp_xpath_348",
+            "name": "348(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/348p.json"
+        },
+        {
+            "key":"csp_xpath_工人",
+            "name": "工人(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/grp.json"
         },
         {
             "key":"csp_xpath_libv",
