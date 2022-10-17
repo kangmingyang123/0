@@ -237,6 +237,26 @@
             "ext":"https://dxawi.github.io/1/json/xbpqjpys.json"
         },
         {
+            "key": "csp_XBPQ厂长资源",
+            "name": "厂长资源(XBPQ)",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/xbpqczzy.json"
+        },
+        {
+            "key": "csp_XBPQCokemv",
+            "name": "Cokemv(XBPQ)",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/xbpqcoke.json"
+        },
+        {
             "key": "csp_xBPQ真不卡",
             "name": "️真不卡(XBPQ)",
             "type": 3,
@@ -305,26 +325,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/coke.json"
-        },
-        {
-            "key": "XB 厂长资源",
-            "name": "厂长资源(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/czzy.json"
-        },
-        {
-            "key":"csp_xpath_厂长资源",
-            "name": "厂长资源(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/czzyp.json"
         },
         {
             "key":"csp_xpath_libv",
