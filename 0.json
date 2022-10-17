@@ -11,6 +11,15 @@
             "filterable": 1
         },
         {
+            "key": "快看",
+            "name": "快看(爬虫)",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key": "Lezhu",
             "name": "乐猪(爬虫)",
             "api": "csp_Lezhu",
@@ -29,14 +38,13 @@
             "filterable": 1
         },
         {
-            "key": "农民",
-            "name": "农民(爬虫)",
+            "key": "Auete",
+            "name": "Auete(爬虫)",
             "type": 3,
-            "api": "csp_Nmys",
+            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gst163.github.io/s/nongminyingshi.json"
+            "filterable": 1
         },
         {
             "key": "AppTT",
@@ -66,6 +74,16 @@
             "searchable":1
         },
         {
+            "key": "农民",
+            "name": "农民(爬虫)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gst163.github.io/s/nongminyingshi.json"
+        },
+        {
             "key": "在线之家",
             "name": "在线之家(爬虫)",
             "type": 3,
@@ -82,25 +100,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Auete",
-            "name": "Auete(爬虫)",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "快看",
-            "name": "快看(爬虫)",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
+        },       
         {
             "key": "Coke",
             "name": "Cokemv(不好用中)",
