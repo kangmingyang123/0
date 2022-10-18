@@ -175,7 +175,17 @@
             "quickSearch":1,
             "filterable":1,
             "ext": "26496fd573ac45d5b3b3f77799fc126f"
-        },  
+        }, 
+        {
+            "key": "推送",
+            "name": "推送",
+            "type":3,
+            "api":"csp_PushAgent",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+        },
         {
             "key": "csp_XBPQ极品影视",
             "name": "极品(XBPQ)",
@@ -344,16 +354,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/xx5.json"
-        },
-        {
-            "key": "推送",
-            "name": "推送",
-            "type":3,
-            "api":"csp_PushAgent",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f"
         }
     ],
        "lives":[
