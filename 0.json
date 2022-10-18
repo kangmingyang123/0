@@ -103,7 +103,7 @@
         },       
         {
             "key": "Coke",
-            "name": "Cokemv(不好用中)",
+            "name": "Cokemv(残废)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -111,17 +111,8 @@
             "filterable": 1
         },
         {
-            "key": "QQ",
-            "name": "QQ(不好用)",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "IQIYI",
-            "name": "IQIYI(不好用)",
+            "name": "爱(解析)",
             "type": 3,
             "api": "csp_IQIYI",
             "searchable": 1,
@@ -129,8 +120,17 @@
             "filterable": 1
         },
         {
+            "key": "QQ",
+            "name": "腾(解析)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "MGTV",
-            "name": "MGTV(不好用)",
+            "name": "芒(解析)",
             "type": 3,
             "api": "csp_MGTV",
             "searchable": 1,
@@ -139,7 +139,7 @@
         },
         {
             "key": "360",
-            "name": "360(不好用)",
+            "name": "360(解析)",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -154,45 +154,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f
-
-"
-        },
-        {
-            "key": "zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_FindZY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f
-
-"
-        },
-        {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f
-
-"
-        },
-        {
-            "key": "Yiso",
-            "name": "一搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Yiso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f
-
-"
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
         },
         {
             "key": "Upyunso",
@@ -202,13 +164,21 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f
-
-"
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
         },
         {
+            "key": "AliPS",
+            "name": "盘搜(仅搜索)",
+            "type":3,
+            "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+        },  
+        {
             "key": "csp_XBPQ极品影视",
-            "name": "极品影视(XBPQ)",
+            "name": "极品(XBPQ)",
             "type":3,
             "api":"csp_xBPQ",
             "searchable":1,
@@ -383,9 +353,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f
-
-"
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
         }
     ],
        "lives":[
