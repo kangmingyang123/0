@@ -20,6 +20,15 @@
             "filterable":1
         },
         {
+            "key": "Lezhu",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
             "key": "AppTT",
             "name": "TT(爬虫)",
             "type": 3,
@@ -91,15 +100,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "Lezhu",
-            "name": "乐猪(凉了)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "Coke",
