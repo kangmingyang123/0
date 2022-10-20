@@ -20,15 +20,6 @@
             "filterable":1
         },
         {
-            "key": "Lezhu",
-            "name": "乐猪(爬虫)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
             "key": "AppTT",
             "name": "TT(爬虫)",
             "type": 3,
@@ -99,38 +90,16 @@
             "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "filterable": 1
         },
         {
-            "key": "IKan",
-            "name": "爱看(爬虫)",
-            "type":3,
-            "api":"csp_IKan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
-        }, 
-        {
-            "key": "Zjdr",
-            "name": "追剧达人(爬虫)",
-            "type":3,
-            "api": "csp_Zjdr",
-            "searchable": 1,
+            "key": "Lezhu",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
-        },
-        {
-            "key": "Smdyy",
-            "name": "神马(爬虫)",
-            "type":3,
-            "api":"csp_Smdyy",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "searchable": 1
         },
         {
             "key": "Coke",
@@ -139,8 +108,7 @@
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "filterable": 1
         },
         {
             "key": "厂长",
@@ -149,8 +117,7 @@
             "api":"csp_Czsapp",
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
-            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "filterable":1
         }, 
         {
             "key": "IQIYI",
