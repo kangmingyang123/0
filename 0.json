@@ -82,19 +82,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },       
+        }, 
         {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key":"csp_libvio",
+            "name": "Libvio(0用不了用1吧)",
+            "type":3,
+            "api":"csp_Lib",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "Lezhu",
-            "name": "乐猪(爬虫)",
+            "name": "乐猪(凉了)",
             "api": "csp_Lezhu",
             "type": 3,
             "filterable": 1,
@@ -103,22 +103,13 @@
         },
         {
             "key": "Coke",
-            "name": "Cokemv(不好用中)",
+            "name": "Cokemv(0用不了用1吧)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "厂长",
-            "name": "厂长(爬虫)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        }, 
         {
             "key": "IQIYI",
             "name": "爱(解析)",
@@ -194,6 +185,26 @@
             "quickSearch":0,
             "filterable":0,
             "ext": "26496fd573ac45d5b3b3f77799fc126f"
+        },
+        {
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/libvp.json"
+        },
+        {
+            "key":"csp_xpath_lezhutv",
+            "name": "乐猪TV(XP)",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/1/json/lztv.json"
         },
         {
             "key": "csp_XBPQ极品影视",
@@ -275,16 +286,6 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/1/json/dm84.json"
         }, 
-        {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XP)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/libvp.json"
-        },
         {
             "key":"csp_xpath_zxzj",
             "name": "在线之家(XP)",
