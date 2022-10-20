@@ -100,7 +100,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
         },
         {
             "key": "IKan",
@@ -110,7 +110,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
         }, 
         {
             "key": "Zjdr",
@@ -120,7 +120,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
         },
         {
             "key": "Smdyy",
@@ -130,7 +130,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
         },
         {
             "key": "Coke",
@@ -140,7 +140,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
         },
         {
             "key": "厂长",
@@ -150,7 +150,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+            "jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
         }, 
         {
             "key": "IQIYI",
