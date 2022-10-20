@@ -29,15 +29,6 @@
             "searchable": 1
         },
         {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "AppTT",
             "name": "TT(爬虫)",
             "type": 3,
@@ -102,14 +93,65 @@
             "filterable": 1
         },       
         {
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+        },
+        {
+            "key": "IKan",
+            "name": "爱看(爬虫)",
+            "type":3,
+            "api":"csp_IKan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+        }, 
+        {
+            "key": "Zjdr",
+            "name": "追剧达人(爬虫)",
+            "type":3,
+            "api": "csp_Zjdr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+        },
+        {
+            "key": "Smdyy",
+            "name": "神马(爬虫)",
+            "type":3,
+            "api":"csp_Smdyy",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+        },
+        {
             "key": "Coke",
-            "name": "Cokemv(残废)",
+            "name": "Cokemv(不好用中)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
         },
+        {
+            "key": "厂长",
+            "name": "厂长(爬虫)",
+            "type":3,
+            "api":"csp_Czsapp",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+        }, 
         {
             "key": "IQIYI",
             "name": "爱(解析)",
