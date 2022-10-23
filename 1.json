@@ -191,7 +191,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/voflix.json"
+            "ext": "https://dxawi.github.io/1/json/voflix.json"
         },
         {
             "key": "ysgc",
@@ -201,7 +201,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
+            "ext": "https://dxawi.github.io/1/json/ysgc.json"
         },
         {
             "key": "瓜皮",
@@ -211,7 +211,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/gptv.json"
+            "ext":"https://dxawi.github.io/1/json/gptv.json"
         },
         {
             "key": "口袋影院",
@@ -221,7 +221,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
+            "ext": "https://dxawi.github.io/1/json/kdyy.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -231,7 +231,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://home.jundie.top:81/ray/json/libvp.json"
+            "ext":"https://dxawi.github.io/1/json/libvp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -241,7 +241,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://home.jundie.top:81/ray/json/zxzjp.json"
+            "ext":"https://dxawi.github.io/1/json/zxzjp.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -251,7 +251,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/lztv.json"
+            "ext":"https://dxawi.github.io/1/json/lztv.json"
         },
         {
             "key": "Bili",
@@ -261,7 +261,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://home.jundie.top:81/ray/json/bili.json"
+            "ext": "https://dxawi.github.io/1/json/bili.json"
         },
         {
             "key": "推送",
@@ -277,7 +277,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
@@ -541,5 +541,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;0817ad7a4ac2896f4ed58bae2bbc26c5"
 }
