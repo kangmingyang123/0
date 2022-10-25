@@ -84,6 +84,15 @@
             "filterable": 1
         }, 
         {
+            "key": "Libvio",
+            "name": "Libvio(爬虫)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
             "key":"csp_xpath_libv",
             "name": "Libvio(XP)",
             "type":3,
@@ -150,10 +159,20 @@
             "ext": "http://刚刚.live/json/alitoken.json"
         },
         {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
+            "key": "Yisou",
+            "name": "一搜(仅搜索)",
             "type":3,
-            "api":"csp_AliPS",
+            "api":"csp_Yisou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "http://刚刚.live/json/alitoken.json"
+        }, 
+        {
+            "key": "找资源",
+            "name": "找资源(仅搜索)",
+            "type":3,
+            "api":"csp_Zhaozy",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
