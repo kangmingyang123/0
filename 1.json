@@ -29,6 +29,15 @@
             "filterable": 1
         },
         {
+            "key": "Dy555",
+            "name": "555(爬虫)",
+            "type": 3,
+            "api": "csp_Dy555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Ddys",
             "name": "低端(爬虫)",
             "type": 3,
@@ -42,15 +51,6 @@
             "name": "图图(爬虫)",
             "type": 3,
             "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Dy555",
-            "name": "555(爬虫)",
-            "type": 3,
-            "api": "csp_Dy555",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -93,7 +93,7 @@
         },
         {
             "key": "Coke",
-            "name": "Cokemv(爬虫)",
+            "name": "Cokemv(不好用中)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -192,7 +192,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/voflix.json"
+            "ext": "https://dxawi.github.io/1/json/voflix.json"
         },
         {
             "key": "ysgc",
@@ -202,7 +202,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
+            "ext": "https://dxawi.github.io/1/json/ysgc.json"
         },
         {
             "key": "瓜皮",
@@ -212,7 +212,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/gptv.json"
+            "ext":"https://dxawi.github.io/1/json/gptv.json"
         },
         {
             "key": "口袋影院",
@@ -222,7 +222,27 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
+            "ext": "https://dxawi.github.io/1/json/kdyy.json"
+        },
+        {
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XP)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/libvp.json"
+        },
+        {
+            "key":"csp_xpath_zxzj",
+            "name": "在线之家(XP)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/zxzjp.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -232,7 +252,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/lztv.json"
+            "ext":"https://dxawi.github.io/1/json/lztv.json"
         },
         {
             "key": "Bili",
@@ -242,7 +262,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://home.jundie.top:81/ray/json/bili.json"
+            "ext": "https://dxawi.github.io/1/json/bili.json"
         },
         {
             "key": "推送",
@@ -522,5 +542,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"http://home.jundie.top:81/ray/jar/custom_spider.jar"
+       "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5c5d8940dd415ed3cf775eb45ecd17fe"
 }
