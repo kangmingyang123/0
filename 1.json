@@ -29,6 +29,15 @@
             "filterable": 1
         },
         {
+            "key": "Lgyy",
+            "name": "蓝光(爬虫)",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Dy555",
             "name": "555(爬虫)",
             "type": 3,
@@ -93,7 +102,7 @@
         },
         {
             "key": "Coke",
-            "name": "Cokemv(不好用中)",
+            "name": "Cokemv(爬虫)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -183,6 +192,15 @@
             "quickSearch":1,
             "filterable":1,
             "ext": "http://刚刚.live/json/alitoken.json"
+        },
+        {
+            "key": "Tbook",
+            "name": "听书(爬虫)",
+            "type": 3,
+            "api": "csp_Tbook",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Voflix",
@@ -542,5 +560,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;5c5d8940dd415ed3cf775eb45ecd17fe"
+       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"
 }
