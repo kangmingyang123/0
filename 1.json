@@ -29,6 +29,15 @@
             "filterable": 1
         },
         {
+            "key": "YanetApp",
+            "name": "YanetApp(爬虫)",
+            "type": 3,
+            "api": "csp_YanetApp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Lgyy",
             "name": "蓝光(爬虫)",
             "type": 3,
@@ -560,5 +569,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"
+       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
 }
