@@ -29,10 +29,10 @@
             "filterable": 1
         },
         {
-            "key": "YanetApp",
-            "name": "YanetApp(爬虫)",
+            "key": "Yanet",
+            "name": "Yanet(爬虫)",
             "type": 3,
-            "api": "csp_YanetApp",
+            "api": "csp_Yanet",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
