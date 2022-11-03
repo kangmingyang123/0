@@ -74,6 +74,15 @@
             "filterable": 1
         },
         {
+            "key": "Ddrk",
+            "name": "低端(爬虫)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "厂长",
             "name": "厂长(爬虫)",
             "type":3,
@@ -129,15 +138,6 @@
             "filterable": 1
         },
         {
-            "key": "Dm84",
-            "name": "动漫巴士(爬虫)",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Lib",
             "name": "Libvio(不太好用)",
             "type": 3,
@@ -151,6 +151,15 @@
             "name": "影视工厂(爬虫)",
             "type": 3,
             "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Smdyy",
+            "name": "神马(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -187,6 +196,33 @@
             "name": "在线之家(爬虫)",
             "type": 3,
             "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "Dm84",
+            "name": "动漫巴士(爬虫)",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Anime1",
+            "name": "日漫(爬虫)",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Anfuns",
+            "name": "Anfuns(爬虫)",
+            "type": 3,
+            "api": "csp_Anfuns",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -661,5 +697,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;55b762505b6d97b61040d1ed4f9d4c2c"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;806d2d01db2bf75adc86badbd917e0bd"
 }
