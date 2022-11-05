@@ -51,6 +51,7 @@
             "name": "TT(爬虫)",
             "type": 3,
             "api": "csp_AppTT",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
