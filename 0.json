@@ -28,6 +28,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+         {
+            "key": "Fantuan",
+            "name": "饭团(爬虫)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "🐷",
             "name": "乐猪(爬虫)",
@@ -93,6 +102,15 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         },
         {
+            "key": "Nianying",
+            "name": "念影(爬虫)",
+            "type":3,
+            "api":"csp_Nianying",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        }, 
+        {
             "key": "LiteApple",
             "name": "小苹果(爬虫)",
             "type": 3,
@@ -151,15 +169,6 @@
             "name": "难看电影(爬虫)",
             "type": 3,
             "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Fantuan",
-            "name": "饭团(爬虫)",
-            "type": 3,
-            "api": "csp_Fantuan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -697,5 +706,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;806d2d01db2bf75adc86badbd917e0bd"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;889225a7e45cb6efb4b6008eddee4bbe"
 }
