@@ -28,7 +28,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
             "key": "Fantuan",
             "name": "饭团(爬虫)",
             "type": 3,
@@ -65,11 +65,38 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
             "key": "Coke",
             "name": "Cokemv(爬虫)",
             "type": 3,
             "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ysgc",
+            "name": "影视工厂(爬虫)",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Bttoo",
+            "name": "Bttoo(爬虫)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Smdyy",
+            "name": "神马(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -103,15 +130,6 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         },
         {
-            "key": "Nianying",
-            "name": "念影(爬虫)",
-            "type":3,
-            "api":"csp_Nianying",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        }, 
-        {
             "key": "LiteApple",
             "name": "小苹果(爬虫)",
             "type": 3,
@@ -121,37 +139,10 @@
             "filterable": 1
         }, 
         {
-            "key": "Bttoo",
-            "name": "两个变态(爬虫)",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "ZJMiao",
             "name": "追剧喵(爬虫)",
             "type": 3,
             "api": "csp_ZJMiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Ysgc",
-            "name": "影视工厂(爬虫)",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Smdyy",
-            "name": "神马(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
