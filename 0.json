@@ -20,6 +20,15 @@
             "filterable": 1
         },
         {
+            "key": "🐷",
+            "name": "乐猪(爬虫)",
+            "type": 3,
+            "api": "csp_Lezhu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Lgyy",
             "name": "蓝光影院(爬虫)",
             "type": 3,
@@ -38,10 +47,10 @@
             "filterable": 1
         },
         {
-            "key": "🐷",
-            "name": "乐猪(爬虫)",
+            "key": "Coke",
+            "name": "Cokemv(爬虫)",
             "type": 3,
-            "api": "csp_Lezhu",
+            "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -57,6 +66,15 @@
             "filterable": 1
         },
         {
+            "key": "Bttoo",
+            "name": "Bttoo(爬虫)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bdys01",
             "name": "哔滴影视(爬虫)",
             "type": 3,
@@ -66,28 +84,10 @@
             "filterable": 1
         },
         {
-            "key": "Coke",
-            "name": "Cokemv(爬虫)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Ysgc",
             "name": "影视工厂(爬虫)",
             "type": 3,
             "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Bttoo",
-            "name": "Bttoo(爬虫)",
-            "type": 3,
-            "api": "csp_Bttoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -176,7 +176,7 @@
         },
         {
             "key": "Lib",
-            "name": "Libvio(不太好用)",
+            "name": "Libvio(电视不太好用)",
             "type": 3,
             "api": "csp_Lib",
             "searchable": 1,
@@ -319,16 +319,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
-        {
-            "key": "Upyunso",
-            "name": "云搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
