@@ -57,15 +57,6 @@
             "filterable": 1
         },
         {
-            "key": "Zjdr",
-            "name": "追剧达人(爬虫)",
-            "type": 3,
-            "api": "csp_Zjdr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Bdys01",
             "name": "哔滴影视(爬虫)",
             "type": 3,
