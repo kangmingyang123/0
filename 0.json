@@ -193,6 +193,33 @@
             "filterable": 1
         },
         {
+            "key": "Dy1010",
+            "name": "Dy1010(爬虫)",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "EEEDY",
+            "name": "EEEDY(爬虫)",
+            "type": 3,
+            "api": "csp_EEEDY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Wmkk",
+            "name": "Wmkk(爬虫)",
+            "type": 3,
+            "api": "csp_Wmkk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "在线之家",
             "name": "在线之家(爬虫)",
             "type": 3,
@@ -250,7 +277,7 @@
             "key": "MGTV",
             "name": "芒(解析)",
             "type": 3,
-            "api": "csp_MGTV",
+            "api": "csp_Mgtv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -326,6 +353,16 @@
             "name": "一搜(仅搜索)",
             "type":3,
             "api":"csp_Yisou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+        },
+        {
+            "key": "Upyunso",
+            "name": "Upyunso(仅搜索)",
+            "type":3,
+            "api":"csp_Upyunso",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
@@ -688,5 +725,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;7fdf839e36aa18bc1dd09d911b564e06"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;22c82b4dbc7d1824131caee74d63b3d0"
 }
