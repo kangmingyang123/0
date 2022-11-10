@@ -194,7 +194,7 @@
         },
         {
             "key": "Dy1010",
-            "name": "Dy1010(爬虫)",
+            "name": "电影1010(爬虫)",
             "type": 3,
             "api": "csp_Dy1010",
             "searchable": 1,
@@ -202,18 +202,17 @@
             "filterable": 1
         },
         {
-            "key": "EEEDY",
-            "name": "EEEDY(爬虫)",
+            "key": "Zjdr",
+            "name": "追剧达人(爬虫)",
             "type": 3,
-            "api": "csp_EEEDY",
-            "playerType":2,
+            "api": "csp_Zjdr",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
             "key": "Wmkk",
-            "name": "Wmkk(爬虫)",
+            "name": "完美看看(爬虫)",
             "type": 3,
             "api": "csp_Wmkk",
             "searchable": 1,
@@ -726,5 +725,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;22c82b4dbc7d1824131caee74d63b3d0"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"
 }
