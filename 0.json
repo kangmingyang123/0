@@ -57,6 +57,15 @@
             "filterable": 1
         },
         {
+            "key": "Bdys01",
+            "name": "哔滴影视(爬虫)",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Coke",
             "name": "Cokemv(爬虫)",
             "type": 3,
@@ -74,15 +83,6 @@
             "quickSearch":1,
             "filterable":1
         }, 
-        {
-            "key": "Bdys01",
-            "name": "哔滴影视(爬虫)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "Lgyy",
             "name": "蓝光影院(爬虫)",
@@ -443,9 +443,9 @@
             "name": "推送",
             "type":3,
             "api":"csp_PushAgent",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
             "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         }
     ],
