@@ -48,10 +48,10 @@
             "filterable": 1
         },
         {
-            "key": "Lgyy",
-            "name": "蓝光影院(爬虫)",
+            "key": "Ysgc",
+            "name": "影视工厂(爬虫)",
             "type": 3,
-            "api": "csp_Lgyy",
+            "api": "csp_Ysgc",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -84,10 +84,10 @@
             "filterable": 1
         },
         {
-            "key": "Ysgc",
-            "name": "影视工厂(爬虫)",
+            "key": "Lgyy",
+            "name": "蓝光影院(爬虫)",
             "type": 3,
-            "api": "csp_Ysgc",
+            "api": "csp_Lgyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
