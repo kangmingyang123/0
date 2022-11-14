@@ -39,6 +39,15 @@
             "filterable": 1
         },
         {
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bttoo",
             "name": "Bttoo(爬虫)",
             "type": 3,
@@ -97,6 +106,15 @@
             "name": "蓝光影院(爬虫)",
             "type": 3,
             "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Juhuang",
+            "name": "剧荒(爬虫)",
+            "type": 3,
+            "api": "csp_Juhuang",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -164,25 +182,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Juhuang",
-            "name": "剧荒(爬虫)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio(电视不太好用)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        },    
         {
             "key": "Dy555",
             "name": "555(爬虫)",
