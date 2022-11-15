@@ -211,15 +211,6 @@
             "filterable": 1
         },
         {
-            "key": "Zjdr",
-            "name": "追剧达人(爬虫)",
-            "type": 3,
-            "api": "csp_Zjdr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Wmkk",
             "name": "完美看看(爬虫)",
             "type": 3,
@@ -724,5 +715,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;dd5d86ebe7b4e9fbe116f0b2b7dba291"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;ee354b1e054f3d886262484e2bbc2936"
 }
