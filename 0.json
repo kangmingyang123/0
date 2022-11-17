@@ -75,6 +75,25 @@
             "filterable": 1
         },
         {
+            "key": "农民",
+            "name": "农民(爬虫)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gst163.github.io/s/nongminyingshi.json"
+        },
+        {
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Coke",
             "name": "Cokemv(爬虫)",
             "type": 3,
@@ -124,25 +143,6 @@
             "name": "神马(爬虫)",
             "type": 3,
             "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "农民",
-            "name": "农民(爬虫)",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gst163.github.io/s/nongminyingshi.json"
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type": 3,
-            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -726,5 +726,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;02e1301b5ddd43b1f9a29ad85588e9af"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;39efc5055c6b1c0e6c3f9031b649e247"
 }
