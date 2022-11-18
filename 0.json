@@ -39,6 +39,15 @@
             "filterable": 1
         },
         {
+            "key": "Voflix",
+            "name": "Voflix(爬虫)",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bdys01",
             "name": "哔滴影视(爬虫)",
             "type": 3,
@@ -710,5 +719,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;39efc5055c6b1c0e6c3f9031b649e247"
+       "spider":"https://dxawi.github.io/1/jar/cc.jar;md5;8c6eda1688c439f7634a96648c41bd57"
 }
