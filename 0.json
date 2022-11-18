@@ -85,6 +85,15 @@
             "filterable": 1
         },
         {
+            "key": "Bttoo",
+            "name": "Bttoo(爬虫)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Coke",
             "name": "Cokemv(爬虫)",
             "type": 3,
@@ -121,24 +130,6 @@
             "filterable": 1
         },
         {
-            "key": "Bttoo",
-            "name": "Bttoo(爬虫)",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "🐴",
-            "name": "神马(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "🐷",
             "name": "乐猪(爬虫)",
             "type": 3,
@@ -162,15 +153,6 @@
             "name": "小苹果(爬虫)",
             "type": 3,
             "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
-        {
-            "key": "🐱",
-            "name": "追剧喵(爬虫)",
-            "type": 3,
-            "api": "csp_ZJMiao",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
