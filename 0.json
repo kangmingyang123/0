@@ -318,7 +318,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
             "key": "zhaozy",
@@ -328,7 +328,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
             "key": "AliPS",
@@ -338,7 +338,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
             "key": "Yisou",
@@ -348,7 +348,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
             "key": "Upyunso",
@@ -358,7 +358,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
         },
         {
             "key": "Vof",
@@ -447,7 +447,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
         }
     ],
        "lives":[
