@@ -2,6 +2,15 @@
 {
     "sites": [ 
         {
+            "key": "Kunyu77",
+            "name": "鲲鱼77(爬虫)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Kuaikan",
             "name": "快看(爬虫)",
             "type": 3,
@@ -20,11 +29,10 @@
             "filterable": 1
         },
         {
-            "key": "AppTT",
-            "name": "TT(爬虫)",
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
             "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 1,
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -34,6 +42,15 @@
             "name": "影视工厂(爬虫)",
             "type": 3,
             "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🐷",
+            "name": "乐猪(爬虫)",
+            "type": 3,
+            "api": "csp_Lezhu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -57,15 +74,6 @@
             "filterable": 1
         },
         {
-            "key": "Kunyu77",
-            "name": "鲲鱼77(爬虫)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Ddrk",
             "name": "低端(爬虫)",
             "type": 3,
@@ -83,21 +91,22 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
-        },
-        {
-            "key": "Lib",
-            "name": "Libvio(爬虫)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        },  
         {
             "key": "Bttoo",
             "name": "Bttoo(爬虫)",
             "type": 3,
             "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "AppTT",
+            "name": "TT(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -134,15 +143,6 @@
             "name": "剧荒(爬虫)",
             "type": 3,
             "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "🐷",
-            "name": "乐猪(爬虫)",
-            "type": 3,
-            "api": "csp_Lezhu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
