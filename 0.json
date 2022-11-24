@@ -239,7 +239,7 @@
         },
         {
             "key": "MGTV",
-            "name": "🥭(解析)",
+            "name": "芒果(解析)",
             "type": 3,
             "api": "csp_Mgtv",
             "searchable": 1,
