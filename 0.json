@@ -20,6 +20,35 @@
             "filterable": 1
         },
         {
+            "key": "AppTT",
+            "name": "TT(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"http://110.42.6.212:7788"
+        },
+        {
+            "key": "🐷",
+            "name": "乐猪(爬虫)",
+            "type": 3,
+            "api": "csp_Lezhu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Fantuan",
+            "name": "饭团(爬虫)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Lib",
             "name": "Libvio(爬虫)",
             "type": 3,
@@ -33,16 +62,6 @@
             "name": "影视工厂(爬虫)",
             "type": 3,
             "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "AppTT",
-            "name": "TT(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -70,24 +89,6 @@
             "name": "蓝光影院(爬虫)",
             "type": 3,
             "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "🐷",
-            "name": "乐猪(爬虫)",
-            "type": 3,
-            "api": "csp_Lezhu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Fantuan",
-            "name": "饭团(爬虫)",
-            "type": 3,
-            "api": "csp_Fantuan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -701,5 +702,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;2986a0b32e718c9f0fe5b3c97b49edd5"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;3a462cb22337e60329e385ff5f809538"
 }
