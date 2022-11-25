@@ -290,7 +290,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         },
         {
             "key": "zhaozy",
@@ -300,7 +300,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         },
         {
             "key": "AliPS",
@@ -310,7 +310,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         },
         {
             "key": "Yisou",
@@ -320,7 +320,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         },
         {
             "key": "Upyunso",
@@ -330,7 +330,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         },
         {
             "key":"csp_xBPQ_dszb",
@@ -429,7 +429,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         }
     ],
        "lives":[
