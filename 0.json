@@ -20,15 +20,25 @@
             "filterable": 1
         },
         {
-            "key": "AppTT",
-            "name": "TT(爬虫)",
+            "key": "csp_AppTT",
+            "name": "图图(爬虫)",
             "type": 3,
             "api": "csp_AppTT",
-            "playerType": 1,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"http://110.42.6.212:7788"
+            "ext": "http://43.154.35.148:9797/api/tutuapp.php"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长(爬虫)",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "🐷",
@@ -166,15 +176,6 @@
             "quickSearch": 1,
             "filterable": 1
         },    
-        {
-            "key": "Dy555",
-            "name": "555(爬虫)",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "Dy1010",
             "name": "电影1010(爬虫)",
@@ -332,26 +333,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key":"csp_xBPQ_dszb",
-            "name":"电视直播",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/dszb.json"
-        },
-        {
-            "key": "Vof",
-            "name": "Voflix(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/voflix.json"
         },
         {
             "key": "Bili",
@@ -702,5 +683,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;3a462cb22337e60329e385ff5f809538"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;71f2d2a6ccf8e6eb59fc828146a4a665"
 }
